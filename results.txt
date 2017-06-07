@@ -1,0 +1,260 @@
+Size 100
+=====>Iteration 1
+
+real	0m0.003s
+user	0m0.001s
+sys	0m0.001s
+=====>Iteration 2
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+=====>Iteration 3
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+=====>Iteration 4
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 5
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+=====>Iteration 6
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+=====>Iteration 7
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 8
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 9
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 10
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+========================================
+Size 1000
+=====>Iteration 1
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 2
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 3
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 4
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+=====>Iteration 5
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 6
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 7
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 8
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+=====>Iteration 9
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+=====>Iteration 10
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+========================================
+Size 10000
+=====>Iteration 1
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 2
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+=====>Iteration 3
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+=====>Iteration 4
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 5
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+=====>Iteration 6
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 7
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+=====>Iteration 8
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 9
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+=====>Iteration 10
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+========================================
+Size 100000
+=====>Iteration 1
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+=====>Iteration 2
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 3
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+=====>Iteration 4
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 5
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 6
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+=====>Iteration 7
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 8
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+=====>Iteration 9
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 10
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+========================================
+Size 1000000
+=====>Iteration 1
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+=====>Iteration 2
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+=====>Iteration 3
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+=====>Iteration 4
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 5
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+=====>Iteration 6
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+=====>Iteration 7
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+=====>Iteration 8
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 9
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+=====>Iteration 10
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+========================================
